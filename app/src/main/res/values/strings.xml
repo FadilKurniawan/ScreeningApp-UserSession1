@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScreeningApp</string>
+<!-- App bar -->
+    <string name="appBar_event">EVENT</string>
+    <string name="appBar_guest">GUEST</string>
+<!-- Text View -->
+    <string name="txv_name">Name :</string>
+
+<!-- hint-->
+    <string name="hint_name">Type name here</string>
+
+<!-- Button-->
+    <string name="btn_next">next</string>
+    <string name="btn_event">Choose Event</string>
+    <string name="btn_guest">Choose Guest</string>
+
+</resources>
